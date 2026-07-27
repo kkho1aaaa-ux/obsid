@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-css"
+  ],
+  "baseFontSize": 20
+}

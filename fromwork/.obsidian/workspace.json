@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e2f77de5798d6bc5",
+        "id": "7ce74650118f9103",
         "type": "tabs",
         "children": [
           {
-            "id": "17880a59278a60ec",
+            "id": "67d26ed6eebbde8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Электроника/Конденсаторы/ESR.md",
+                "file": "Электроника/Конденсаторы/Импеданс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESR"
+              "title": "Импеданс"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Электроника/Конденсаторы/ESR.md",
+                "file": "Электроника/Конденсаторы/Импеданс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ESR"
+              "title": "Обратные ссылки для Импеданс"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Электроника/Конденсаторы/ESR.md",
+                "file": "Электроника/Конденсаторы/Импеданс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из ESR"
+              "title": "Исходящие ссылки из Импеданс"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Электроника/Конденсаторы/ESR.md",
+                "file": "Электроника/Конденсаторы/Импеданс.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура ESR"
+              "title": "Структура Импеданс"
             }
           },
           {
@@ -195,10 +195,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "17880a59278a60ec",
+  "active": "67d26ed6eebbde8e",
   "lastOpenFiles": [
-    "Электроника/Конденсаторы",
+    "img/Pasted image 20260727100051.png",
     "Электроника/Конденсаторы/ESR.md",
+    "Электроника/Конденсаторы/Импеданс.md",
+    "img/Pasted image 20260727094349.png",
+    "img/Pasted image 20260727094922.png",
+    "img/Pasted image 20260727094328.png",
+    "Pasted image 20260727094143.png",
+    "img",
+    "img/Pasted image 20260727094057.png",
+    "Электроника/Конденсаторы",
     "Электроника",
     "Добро пожаловать.md"
   ]
