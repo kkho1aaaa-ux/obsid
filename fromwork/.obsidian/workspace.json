@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Электроника/Конденсаторы/Импеданс.md",
+                "file": "Электроника/Многослойные платы/Четырехслойные платы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Импеданс"
+              "title": "Четырехслойные платы"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Электроника/Конденсаторы/Импеданс.md",
+                "file": "Электроника/Многослойные платы/Четырехслойные платы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Импеданс"
+              "title": "Обратные ссылки для Четырехслойные платы"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Электроника/Конденсаторы/Импеданс.md",
+                "file": "Электроника/Многослойные платы/Четырехслойные платы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Импеданс"
+              "title": "Исходящие ссылки из Четырехслойные платы"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Электроника/Конденсаторы/Импеданс.md",
+                "file": "Электроника/Многослойные платы/Четырехслойные платы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Импеданс"
+              "title": "Структура Четырехслойные платы"
             }
           },
           {
@@ -197,9 +197,15 @@
   },
   "active": "67d26ed6eebbde8e",
   "lastOpenFiles": [
+    "img/Pasted image 20260728113217.png",
+    "img/Pasted image 20260728112937.png",
+    "img/Pasted image 20260728112753.png",
+    "img/Pasted image 20260728112055.png",
+    "Электроника/Конденсаторы/Импеданс.md",
+    "Электроника/Многослойные платы/Четырехслойные платы.md",
+    "Электроника/Многослойные платы",
     "img/Pasted image 20260727100051.png",
     "Электроника/Конденсаторы/ESR.md",
-    "Электроника/Конденсаторы/Импеданс.md",
     "img/Pasted image 20260727094349.png",
     "img/Pasted image 20260727094922.png",
     "img/Pasted image 20260727094328.png",
